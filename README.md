@@ -1,2 +1,4 @@
 # hello-world
-training for GitHub 
+Training for GitHub<br>
+Hi <br>
+I am learning how to use github to mangage and control project devlopments and testing etc
